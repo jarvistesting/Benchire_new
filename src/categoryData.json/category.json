@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "title": "Capsules",
+      "value": "capsules"
+    },
+    {
+      "title": "Cores",
+      "value": "cores"
+    },
+    {
+      "title": "Dragons",
+      "value": "dragons"
+    },
+    {
+      "title": "History",
+      "value": "history"
+    },
+    {
+      "title": "Landing Pads",
+      "value": "landpads"
+    }
+  ],
+  "capsules": [
+    {
+      "tableHeading": ["Serial", "Status", "Original Launch"],
+      "tableValue": ["capsule_serial", "status", "original_launch"]
+    }
+  ],
+  "cores": [
+    {
+      "tableHeading": ["Serial", "Status", "Original Launch"],
+      "tableValue": ["core_serial", "status", "original_launch"]
+    }
+  ],
+  "dragons": [
+    {
+      "tableHeading": ["Id", "Name", "Crew Capacity"],
+      "tableValue": ["id", "name", "crew_capacity"]
+    }
+  ],
+  "history": [
+    {
+      "tableHeading": ["Id", "Title", "Event Date"],
+      "tableValue": ["id", "title", "event_date_utc"]
+    }
+  ],
+  "landpads": [
+    {
+      "tableHeading": ["Id", "Name", "Status"],
+      "tableValue": ["id", "full_name", "status"]
+    }
+  ]
+}
